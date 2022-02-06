@@ -1,0 +1,10 @@
+.Entry {
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+	height: 2rem;
+	width: 16rem;
+	padding: 0.25rem 0.5rem;
+	border-radius: 0;
+	text-align: right;
+}

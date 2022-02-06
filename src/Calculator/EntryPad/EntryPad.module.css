@@ -1,0 +1,13 @@
+.KeypadContainer {
+	width: 16rem;
+}
+
+.NormalButton {
+	width: 3rem;
+	height: 3rem;
+}
+
+.EnterButton {
+	width: 16rem;
+	height: 3rem;
+}

@@ -1,0 +1,15 @@
+.Display {
+	padding: 0.1rem 0.5rem;
+	width: 16em;
+	height: 4rem;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 10px 10px 0px 0px;
+	text-align: right;
+}
+
+.Item {
+	margin: 0;
+	height: 1rem;
+}
